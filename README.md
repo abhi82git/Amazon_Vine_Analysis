@@ -35,5 +35,5 @@ The analysis aims to figure out  if there is any bias toward favorable reviews f
 ### Positivity Bias
 - Even if the sample size is small, 2 out 3 paid reviewers ave 5-star ratings. Thus there seems to be some empirical truth to the fact that Vine(paid) reviewers tend to give hihly positive and 5 star ratings.
 
--### Additional Conclusion
+### Additional Conclusion
 From the numbers of total paid and unpaid reviewrs, it is clear that the number of Vne(paid) reviewers is very small as compared to non-Vine(unpaid) reviewrs. For 3000 non-Vine reviewers, there are only 3 Vine reviews - a ratio of 1 to every 1000 or 0.1%.
